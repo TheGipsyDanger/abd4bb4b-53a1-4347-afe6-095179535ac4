@@ -10,5 +10,29 @@
     "valid": "Dez 2026",
     "course": "Direito",
     "camps": "Estácio Barra da Tijuca - Tom Jobim"
+  },
+  "paulista": {
+    "email": "maria.silva@example.com",
+    "phone": "(11) 98877-6655",
+    "avatar": "https://github.com/user-attachments/assets/a1b2c3d4-5e6f-7g8h-9i0j-k1l2m3n4o5p6",
+    "name": "Maria da Silva",
+    "document": "123.456.789-00",
+    "birth": "15 Jan 1990",
+    "registration": "2020 0809 2045",
+    "valid": "Nov 2025",
+    "course": "Engenharia",
+    "camps": "USP São Paulo"
+  },
+  "mineiro": {
+    "email": "joao.pereira@example.com",
+    "phone": "(31) 98765-4321",
+    "avatar": "https://github.com/user-attachments/assets/q1w2e3r4-t5y6u7i8-o9p0a1s2d3f4",
+    "name": "João Pereira",
+    "document": "987.654.321-00",
+    "birth": "10 Fev 1985",
+    "registration": "2019 0708 3035",
+    "valid": "Out 2024",
+    "course": "Medicina",
+    "camps": "UFMG Belo Horizonte"
   }
 }
